@@ -5,4 +5,14 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <string-array name="sample_weekly_forecast">
+        <item>"Mon 4/20 - sunny - 31/17"</item>
+        <item>"Tue 4/21 - foggy - 28/67"</item>
+        <item>"Wed 4/22 - cloudy - 22/17"</item>
+        <item>"Thu 4/23 - rainy - 73/7"</item>
+        <item>"Fri 4/24 - foggy - 31/17"</item>
+        <item>"Sat 4/25 - Trapped IN WEATHERSTATION - 23/18"</item>
+        <item>"Sun 4/26 - sunny - 20/7"</item>
+    </string-array>
+
 </resources>
